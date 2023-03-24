@@ -1,0 +1,10 @@
+#include<iostram>
+using namespacve std;
+int main()
+{
+  int a=5;
+  int b=5;
+  int sum=-(-a-b);
+  cout<<"sum"<<sum;
+  return o
+ }
